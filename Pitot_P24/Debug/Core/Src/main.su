@@ -1,0 +1,14 @@
+../Core/Src/main.c:131:13:WriteToDP	32	static
+../Core/Src/main.c:135:13:ReadFromDP	32	static
+../Core/Src/main.c:139:6:MS45x5DOInitialization	24	static
+../Core/Src/main.c:186:6:GetMS45x5DOConversionValue	32	static
+../Core/Src/main.c:234:5:main	16	static
+../Core/Src/main.c:378:6:SystemClock_Config	88	static
+../Core/Src/main.c:421:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:458:13:MX_CAN_Init	48	static
+../Core/Src/main.c:511:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:538:13:MX_TIM4_Init	40	static
+../Core/Src/main.c:574:13:MX_DMA_Init	16	static
+../Core/Src/main.c:588:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:600:6:HAL_CAN_RxFifo0MsgPendingCallback	16	static
+../Core/Src/main.c:609:6:Error_Handler	4	static,ignoring_inline_asm

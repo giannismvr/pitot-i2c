@@ -1,0 +1,14 @@
+../Core/Src/main.c:131:13:WriteToDP	1
+../Core/Src/main.c:135:13:ReadFromDP	1
+../Core/Src/main.c:139:6:MS45x5DOInitialization	17
+../Core/Src/main.c:186:6:GetMS45x5DOConversionValue	4
+../Core/Src/main.c:234:5:main	2
+../Core/Src/main.c:378:6:SystemClock_Config	4
+../Core/Src/main.c:421:13:MX_ADC1_Init	3
+../Core/Src/main.c:458:13:MX_CAN_Init	2
+../Core/Src/main.c:511:13:MX_I2C1_Init	2
+../Core/Src/main.c:538:13:MX_TIM4_Init	4
+../Core/Src/main.c:574:13:MX_DMA_Init	1
+../Core/Src/main.c:588:13:MX_GPIO_Init	1
+../Core/Src/main.c:600:6:HAL_CAN_RxFifo0MsgPendingCallback	1
+../Core/Src/main.c:609:6:Error_Handler	1
